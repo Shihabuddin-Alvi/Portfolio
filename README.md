@@ -10,30 +10,30 @@ Vosker, Business Workforce Analyst (Jan 2023 – Present)
 
  
 Vosker, Customer Solution Consultant (Sep 2021 – Dec 2022)
--Achieved an 89% conversion rate in revenue through upselling.
--Enhanced Salesforce.com functionalities to refine customer engagement and sales processes.
--Collaborated with cross-functional teams to deliver actionable insights.
--Presented analysis findings to guide strategic decision-making processes.
+- Achieved an 89% conversion rate in revenue through upselling.
+- Enhanced Salesforce.com functionalities to refine customer engagement and sales processes.
+- Collaborated with cross-functional teams to deliver actionable insights.
+- Presented analysis findings to guide strategic decision-making processes.
 
 
 Projects
 Formula 1 Data Analysis and Predictive Modelling Project (Feb 2024)
--Analyzed Formula 1 race data to uncover insights into driver performance and race outcomes.
--Conducted exploratory data analysis (EDA) and built predictive models using Python and machine learning algorithms.
--Communicated findings through effective data visualization using Matplotlib, Seaborn, and Plotly.
--Sporting Data Insights: Extreme Sports Equipment Analysis, ExcursionX (Oct 2023)
--Utilized Power BI to analyze data in the extreme sports equipment industry for data-driven decision-making.
--Designed an interactive Power BI dashboard for visualizing KPIs and essential metrics.
-
+- Analyzed Formula 1 race data to uncover insights into driver performance and race outcomes.
+- Conducted exploratory data analysis (EDA) and built predictive models using Python and machine learning algorithms.
+- Communicated findings through effective data visualization using Matplotlib, Seaborn, and Plotly.
+- Sporting Data Insights: Extreme Sports Equipment Analysis, ExcursionX (Oct 2023)
+- Utilized Power BI to analyze data in the extreme sports equipment industry for data-driven decision-making.
+- Designed an interactive Power BI dashboard for visualizing KPIs and essential metrics.
 
 
 Technical Skills
-Data Modelling
-Microsoft Office (Word, PowerPoint, Excel)
-Salesforce, Google Workspace
-Power BI, Tableau
-SQL, Python (Numpy, Pandas, Matplotlib & Seaborn)
-JIRA, Confluence, SharePoint
+- Data Modelling
+- Microsoft Office (Word, PowerPoint, Excel)
+- Salesforce, Google Workspace
+- Power BI, Tableau
+- SQL, Python (Numpy, Pandas, Matplotlib & Seaborn)
+- JIRA, Confluence, SharePoint
+
 
 
 
@@ -44,7 +44,8 @@ Bachelor of Commerce: International Business, John Molson School of Business, Co
 
 Leadership Experience
 John Molson International Business Association, Director of Events (Apr 2021 – May 2022)
-Collaborated with a team of 21 executives to coordinate 12 student-centric projects and events.
-Orchestrated a fundraising campaign, raising $8985 for men's mental health awareness.
+- Collaborated with a team of 21 executives to coordinate 12 student-centric projects and events.
+- Orchestrated a fundraising campaign, raising $8985 for men's mental health awareness.
+
 
 Feel free to reach out to me at alvishihabuddin@gmail.com for collaboration opportunities or to connect on LinkedIn: https://www.linkedin.com/in/mohammad-shihabb/

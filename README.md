@@ -51,4 +51,6 @@ John Molson International Business Association, Director of Events (Apr 2021 –
 - Orchestrated a fundraising campaign, raising $8985 for men's mental health awareness.
 
 
-Feel free to reach out to me at alvishihabuddin@gmail.com for collaboration opportunities or to connect on LinkedIn: https://www.linkedin.com/in/mohammad-shihabb/
+Feel free to reach out to me at alvishihabuddin@gmail.com for collaboration opportunities.
+
+To connect on LinkedIn: https://www.linkedin.com/in/mohammad-shihabb/

@@ -1,6 +1,7 @@
 Hi there! I'm Shihab, a Business Workforce Analyst with a passion for data analysis and visualization. I thrive on uncovering insights from data to drive informed decision-making and optimize business operations.
 
 Work Experience
+
 Vosker, Business Workforce Analyst (Jan 2023 – Present)
 - Analyzed diverse datasets to enhance workforce efficiency by 11%.
 - Designed interactive Power BI dashboards, improving decision-making processes by 14%.

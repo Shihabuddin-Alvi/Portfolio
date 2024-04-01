@@ -1,4 +1,4 @@
-Hi there! I'm Shihab, a Business Workforce Analyst with a passion for data analysis and visualization. I thrive on uncovering insights from data to drive informed decision-making and optimize business operations.
+Hi there! I'm Shihab, a Business Workforce Analyst with a passion for data science and machine learning. I thrive on uncovering insights from data to drive informed decision-making and optimize business operations.
 
 
 Education

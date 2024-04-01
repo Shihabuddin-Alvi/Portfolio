@@ -22,7 +22,8 @@ Formula 1 Data Analysis and Predictive Modelling Project (Feb 2024)
 - Analyzed Formula 1 race data to uncover insights into driver performance and race outcomes.
 - Conducted exploratory data analysis (EDA) and built predictive models using Python and machine learning algorithms.
 - Communicated findings through effective data visualization using Matplotlib, Seaborn, and Plotly.
-- Sporting Data Insights: Extreme Sports Equipment Analysis, ExcursionX (Oct 2023)
+
+Sporting Data Insights: Extreme Sports Equipment Analysis, ExcursionX (Oct 2023)
 - Utilized Power BI to analyze data in the extreme sports equipment industry for data-driven decision-making.
 - Designed an interactive Power BI dashboard for visualizing KPIs and essential metrics.
 

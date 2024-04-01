@@ -1,5 +1,12 @@
 Hi there! I'm Shihab, a Business Workforce Analyst with a passion for data analysis and visualization. I thrive on uncovering insights from data to drive informed decision-making and optimize business operations.
 
+
+Education
+Bachelor of Commerce: International Business
+John Molson School of Business, Concordia University (Jan 2019 - Dec 2022)
+
+
+
 Work Experience
 
 Vosker, Business Workforce Analyst (Jan 2023 – Present)
@@ -35,12 +42,6 @@ Technical Skills
 - Power BI, Tableau
 - SQL, Python (Numpy, Pandas, Matplotlib & Seaborn)
 - JIRA, Confluence, SharePoint
-
-
-
-
-Education
-Bachelor of Commerce: International Business, John Molson School of Business, Concordia University (Jan 2019 - Dec 2022)
 
 
 

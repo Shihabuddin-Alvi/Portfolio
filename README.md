@@ -2,7 +2,7 @@ Hi there! I'm Shihab, a Business Workforce Analyst with a passion for data analy
 
 Work Experience
 Vosker, Business Workforce Analyst (Jan 2023 – Present)
--Analyzed diverse datasets to enhance workforce efficiency by 11%.
+*Analyzed diverse datasets to enhance workforce efficiency by 11%.
 -Designed interactive Power BI dashboards, improving decision-making processes by 14%.
 -Leveraged advanced data acquisition techniques to derive actionable insights.
 -Utilized Python and SQL for advanced random forest modeling to optimize strategies.

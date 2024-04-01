@@ -46,6 +46,7 @@ Technical Skills
 
 
 Leadership Experience
+
 John Molson International Business Association, Director of Events (Apr 2021 – May 2022)
 - Collaborated with a team of 21 executives to coordinate 12 student-centric projects and events.
 - Orchestrated a fundraising campaign, raising $8985 for men's mental health awareness.

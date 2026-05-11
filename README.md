@@ -1,48 +1,88 @@
-Hi there! I'm Shihab, a Data Specialist with a passion for data science and machine learning. I thrive on uncovering insights from data to drive informed decision-making and optimize business operations.
+# Mohammad Shihab Uddin
 
+Data Specialist with 4+ years of experience building data pipelines, predictive models, and analytics systems. Currently based in Dhaka, open to international roles in data engineering, analytics engineering, and applied AI.
 
-WORK EXPERIENCE
-Data Specialist, Vosker   				                                                                                                         Nov 2024 – Present
-•	Lead a team of 5 to manage and clean large datasets using SQL and Python, improving process efficiency.
-•	Build and present dashboards to stakeholders, communicating complex data in a clear and actionable way.
-•	Developed predictive models to forecast trends, boosting operational efficiency by 11%.
-•	Resolved critical data quality issues proactively, enhancing reporting accuracy by 8%.
-•	Automated workflows and enhanced dashboard interactivity to uncover business opportunities.
+I run **AlviAnalytics**, an F1 data analytics brand on LinkedIn focused on telemetry analysis, ML modeling, and race pace breakdowns. My personal projects sit at the intersection of motorsport, machine learning, and financial data.
 
-Business Growth Analyst, Vosker                                                                                                                                           Jan 2023 – Oct 2024
-•	Automated data pipelines, reducing manual effort by 20% and increasing data accuracy.
-•	Reduced manual reporting time with Power Automate, saving 5+ hours weekly.
-•	Improved stakeholder engagement through interactive dashboards and data visualization.
-•	Enhanced operational visibility via advanced data visualization.
-•	Mentored junior analysts, fostering team development and knowledge sharing.
+---
 
-Customer Solution Consultant, Vosker	 		                                                                                        Sep 2021- Dec 2022
+## Projects
 
-•	Increased revenue conversion by 89% through resolving technical issues and upselling.
-•	Provided actionable insights to optimize sales processes and enhance customer engagement.
-•	Adapted solutions to meet inclusivity and compliance standards.
-•	Strengthened customer satisfaction by resolving complex issues quickly.
-•	Collaborated cross-functionally to improve overall service experience.
+### AlviAnalytics — F1 Telemetry and Race Intelligence
+Personal analytics brand built on top of FastF1 and OpenF1 APIs. I publish race pace analysis, driver telemetry comparisons, and predictive content on LinkedIn after each Grand Prix.
 
+- Automated data pipelines that pull, clean, and visualize race data per event
+- Posts reaching 10K+ impressions including the McLaren wheelbase thesis, Japanese GP follow-up, and Ferrari SF-26 aerodynamics breakdown
+- Tools: Python, FastF1, OpenF1, pandas, matplotlib
 
-LEADERSHIP EXPERIENCE:
-Director of Events, John Molson International Business Association                                                                            Apr 2021 – May 2022
+### Ghost in the Machine — Unsupervised ML Series
+An ongoing project applying unsupervised learning to F1 lap data to detect anomalies and behavioral patterns across drivers and circuits.
 
-•	Led a team of 21 executives to deliver 12 career development, engagement and social initiatives.
-•	Spearheaded flagship events, including Global Insights, Next Patriates, and IBUS case Competition.
-•	Collaborated on event planning, budgeting, and execution to meet deadlines and goals.
-•	Managed $12K+ budget, successfully raising $8,985 for men’s mental health awareness.
-•	Conducted post-event analysis, boosting revenue by 20% and cutting costs by 12%.
+- Case studies: Monaco 2023, Silverstone 2023, Nyck de Vries anomaly detection
+- Methods: clustering, dimensionality reduction, outlier detection
+- Tools: Python, scikit-learn, pandas, matplotlib, Jupyter
 
-EDUCATION
-Bachelor of Commerce: International Business            	                                                                                                        Jan 2019 - Dec 2022
-John Molson School of Business, Concordia University                                                                                    
+### Equity Portfolio Tracker
+A Python-based investment research tool built around AAOIFI screening principles. Designed for systematic, rules-based equity analysis without relying on a financial advisor.
 
-SKILLS:
-Data Analysis & Visualization: Power BI, Tableau, SQL
-Programming & Modelling: Python, DAX, Data Modelling
-Cloud & Collaboration Tools: Databricks, JIRA, Confluence, Salesforce
-Business Processes: Agile Methodologies, Stakeholder Engagement, Reporting, Strategic Thinking
-PROJECTS:
-•	FORMULA 1 ANALYSIS: Built predictive models in Python using regression techniques to evaluate driver performance and forecast race outcomes. Delivered key insights through advanced, visually engaging data visualizations.
-•	EXTREME SPORTS DASHBOARD: Designed a Power BI dashboard to track sales and revenue KPIs, enhancing strategic decision-making through robust DAX formulas and precise data handling.
+- XGBoost conviction scoring model with walk-forward cross-validation
+- AAOIFI screening integration via Zoya and Musaffa APIs
+- Excel export pipeline for portfolio review
+- Tools: Python, XGBoost, pandas, openpyxl, Jupyter
+
+### F1 Race Pace Analysis Pipeline
+Automated end-to-end pipeline that processes race data and outputs publication-ready visualizations.
+
+- Pulls data from FastF1 and OpenF1 per race weekend
+- Outputs stint-level pace comparisons, degradation curves, and gap charts
+- Tools: Python, FastF1, OpenF1, matplotlib
+
+---
+
+## Skills
+
+| Area | Tools |
+|------|-------|
+| Programming | Python, SQL, DAX |
+| ML and Modeling | scikit-learn, XGBoost, pandas, NumPy |
+| F1 Data | FastF1, OpenF1 |
+| Visualization | matplotlib, Power BI, Tableau |
+| Cloud and Platforms | Databricks, GitHub Actions, Jupyter |
+| APIs and Automation | Genesys Cloud API, Power Automate |
+| Business Tools | JIRA, Confluence, Salesforce |
+
+---
+
+## Work Experience
+
+**Data Specialist — VOSKER** (Nov 2024 to Apr 2026)
+- Built predictive models forecasting operational trends, improving efficiency by 11%
+- Resolved data quality issues that raised reporting accuracy by 8%
+- Delivered dashboards and automated workflows for stakeholder reporting
+
+**Business Workforce Analyst — VOSKER** (Jan 2023 to Oct 2024)
+- Automated data pipelines, cutting manual effort by 20% and improving accuracy
+- Reduced manual reporting by 5+ hours per week using Power Automate
+- Built interactive dashboards for workforce planning and operational visibility
+
+**Customer Solution Consultant — VOSKER** (Sep 2021 to Dec 2022)
+- Increased revenue conversion by 89% through technical issue resolution and upselling
+- Provided sales process insights that improved customer engagement metrics
+
+**Director of Events — John Molson International Business Association** (Apr 2021 to May 2022)
+- Led a 21-person executive team across 12 events including Global Insights and the IBUS Case Competition
+- Managed a $12K+ budget; raised $8,985 for men's mental health awareness
+- Post-event analysis drove 20% revenue growth and 12% cost reduction
+
+---
+
+## Education
+
+**Bachelor of Commerce, International Business**
+John Molson School of Business, Concordia University (Jan 2019 to Dec 2022)
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/shihabuddin-alvi](https://linkedin.com/in/shihabuddin-alvi)
